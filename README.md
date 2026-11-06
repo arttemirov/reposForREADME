@@ -35,3 +35,18 @@ print(n)
 языке Markdown  
 
 [В квадратных скобках текст, в круглых ссылку](https://github.com/arttemirov/reposForREADME)
+
+
+![фото не прогрузилось](photos/welcome.png)
+**^ просто картинка ^**
+
+
+[![photos/welcome.png](photos/welcome.png)](https://github.com/arttemirov/reposForREADME)
+**^ картинка с встроенной ссылкой ^**
+
+Item | Value | Quantity
+:----| :----:|-----:
+Car  | 15    | 100%
+House | 2 | 90%
+
+
